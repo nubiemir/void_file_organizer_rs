@@ -1,0 +1,9 @@
+[package]
+name = "file_organizer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+figlet-rs = "0.1.5"
+mime = "0.3.17"
+mime_guess = "2.0.5"
